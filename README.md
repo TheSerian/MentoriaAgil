@@ -11,7 +11,7 @@ A **Plataforma de Mentoria** é uma solução de software desenvolvida para o am
 O sistema conecta discentes (**Mentorados**) a professores, ex-alunos e profissionais experientes (**Mentores**), facilitando o agendamento de mentorias, a troca de conhecimentos e o direcionamento de carreira.
 
 > 📝 Projeto desenvolvido na disciplina de **Engenharia de Software** do curso de Bacharelado em Ciência da Computação.
-> * **Professora:** Dra. Thaís Alves Burity Rocha
+> * **Professora:** Thaís Alves Burity Rocha
 > * **Semestre:** 2025.2
 
 ---
@@ -24,7 +24,7 @@ Time responsável pela construção do projeto:
 | **Thayson Guedes de Medeiros** | [![GitHub](https://img.shields.io/badge/GitHub-ThaysonScript-100000?style=flat&logo=github&logoColor=white)](https://github.com/ThaysonScript) |
 | **Joneilson César Botelho Júnior** | [![GitHub](https://img.shields.io/badge/GitHub-Joneilson-100000?style=flat&logo=github&logoColor=white)](https://github.com/Joneilson) |
 | **Vinícius Mendes de Carvalho** | [![GitHub](https://img.shields.io/badge/GitHub-imvmc-100000?style=flat&logo=github&logoColor=white)](https://github.com/imvmc) |
-| **João Victor Iane Góis** | [![GitHub](https://img.shields.io/badge/GitHub-JoaoPresideu-100000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPresideu) |
+| **João Victor Iane Góis Presideu** | [![GitHub](https://img.shields.io/badge/GitHub-JoaoPresideu-100000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPresideu) |
 | **Maria Luiza Marques da Silva** | [![GitHub](https://img.shields.io/badge/GitHub-Pendente-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/) |
 
 ---
