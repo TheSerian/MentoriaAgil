@@ -29,7 +29,6 @@ public class User implements UserDetails {
     @Enumerated(EnumType.STRING)
     private Role role;
 
-    // --- SEUS CAMPOS (Mantidos para não quebrar sua listagem de mentores) ---
     @Column(name = "especialidade")
     private String especialidade;
 
@@ -41,23 +40,19 @@ public class User implements UserDetails {
 
     private boolean ativo = true; 
 
-    // --- CAMPOS DO COLEGA (Mantidos 100% conforme ele adicionou) ---
     @OneToOne(mappedBy = "user")
     private PerfilMentor perfilMentor;
 
     private LocalDateTime createdAt = LocalDateTime.now();
 
-    // Construtores
     public User() {}
 
-    // Construtor que o colega definiu (mais limpo)
     public User(String name, String email, String password){
         this.name = name;
         this.email = email;
         this.password = password;
     }
 
-    // Construtor que você usou (mantido para compatibilidade se necessário)
     public User(String name, String email, String password, Role role) {
         this.name = name;
         this.email = email;
